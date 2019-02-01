@@ -36,7 +36,6 @@ In your browser, open the file:
 
     /www/index.html
 
-
 #My Contributions
 
 ##Account Creation
