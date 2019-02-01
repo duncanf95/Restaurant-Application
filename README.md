@@ -38,6 +38,8 @@ In your browser, open the file:
 
 # My Contributions
 
+This project was a group effort. I was reponsible for only the customer application that is stored in this repo. The kitchen was designed and developed by Jason Broomfield, the waiter application was designed and developed by Lachlan Loods.
+
 ## Account Creation
 
 ![login image](screenshots/login.png)![register image](screenshots/register.png)
@@ -61,4 +63,4 @@ The QR code was used to allow waiter to take orders from the customer. A custome
 
 ![food items](screenshots/displaying-food-items.png)![menu items](screenshots/displaying-menu-items.png)
 
-The customer adds items to their order using this 
+The customer adds items to their order using this menu. the items can be viewed the the customers basket. They can then alert a waiter when they are ready to order.
