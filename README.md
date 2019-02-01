@@ -36,28 +36,28 @@ In your browser, open the file:
 
     /www/index.html
 
-#My Contributions
+# My Contributions
 
-##Account Creation
+## Account Creation
 
 ![login image](screenshots/login.png)![register image](screenshots/register.png)
 	
 I was responsible for creating the customer side of the expierence, this included allowing the customer to register and account. This meant passing values to php scits that would in turn regotser accounts and also log them in. The account was an easy way to tie orders to certain customers.
 	
 	
-##Order Tracking
+## Order Tracking
 
 ![tracking image](screenshots/order-tracking.png)
 	
 I created a simple tracker that would get the status of the order from the kitchen. There was a different sapp created for the kitchen that would update the order status in a database that the customer app could then read from.
 	
-##QR Code
+## QR Code
 
 ![QR code](screenshots/qr-code.png)
 
 The QR code was used to allow waiter to take orders from the customer. A customer orders their food then allerts a waiter. The waiter scans the qr code and puts the customers order through. they can then charge the customer.
 
-##Menu Display
+## Menu Display
 
 ![food items](screenshots/displaying-food-items.png)![menu items](screenshots/displaying-menu-items.png)
 
